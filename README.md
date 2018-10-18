@@ -6,7 +6,7 @@ For clustering the dataset, I have used Gaussian Mixture Model (Expectation Maxi
 
 ## Visualize Feature Distributions
 
-<img src="https://github.com/osamadev/Customer-Segments-using-Clustering-and-PCA-Techniques-/blob/master/Results/Visualizing_Underlying_Dist.png" >
+<img src="https://github.com/osamadev/Customer-Segments-using-Clustering-and-PCA-Techniques-/blob/master/Results/Features_Distribution.png" >
 
 ## Data Preprocessing (Feature Scaling)
 
